@@ -77,7 +77,7 @@ python insurance_claims_fraud.py
 - **Fraud Analysis** — Trains three models on your data (Logistic Regression, Random Forest, XGBoost) and displays fraud/non-fraud counts, Accuracy, AUC-ROC, and F1-score for each.
 - **Fraud Results Export** — Saves a `fraud_results.csv` file in the current directory listing claim IDs flagged by each model and those flagged by all three.
 - **Visualizations** — ROC curves for side-by-side model comparison.
-- **Fraudulent Claims List** — Top 10 flagged claims shown in the GUI; full results in `fraud_results.csv`.
+- **Fraudulent Claims List** — Top 10 flagged claims shown in the GUI; full results saved in `fraud_results.csv`.
 
 ---
 
