@@ -5,7 +5,7 @@ Upload a CSV dataset, train three models simultaneously, and export flagged clai
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ---
 
 ## Table of Contents
