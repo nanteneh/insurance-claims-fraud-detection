@@ -29,7 +29,7 @@ warnings.filterwarnings('ignore')
 class FraudDetectionApp:
     """
     Insurance Claims Fraud Detection Application using Tkinter and Machine Learning.
-    Author name: Nahom Anteneh
+    Author names: Nahom Anteneh
     Date : March 24, 2025
     Description of class: This class creates a GUI application for loading insurance claims data, analyzing it using machine learning models, and displaying the results.
     """
